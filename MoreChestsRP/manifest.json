@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "MoreChestsRP",
+    "description": "チェストの追加。",
+    "version": [1, 0, 0],
+    "uuid": "3eecfc80-13b8-465f-8711-880a94b85ff3",
+    "min_engine_version": [1, 20, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "MoreChests resources module",
+      "version": [1, 0, 0],
+      "uuid": "69023b91-26b3-4995-aaf0-45f2ce9aaca8"
+    }
+  ]
+}
