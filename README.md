@@ -1,6 +1,7 @@
 # chestUI-with-custombuttons
 Add custom buttons to chestUI<br/>
-this works Minecraft Bedrock Edition
+This works Minecraft Bedrock Edition<br/>
+Show the form when a chest named "dCB" is opened
 
 ## How to do it
 
@@ -18,10 +19,10 @@ Adjust the button position nicely.
 ### 4.
 Even if you press the close button, only the form will close, so add a button to close the form.<br/>
 When you press that button, it will tp 1000 blocks directly above and force the UI to close.<br/>
-To make it compatible with the esc key, do the same thing when cancellationReason is UserClosed.
+To make it compatible with the esc key, do the same thing when "cancellationReason" is "UserClosed".
 
 ### 5.
-The animation when the form closes can be set to
+Disable animations when the form close
 
 ```JSON
 "$screen_animations": []
