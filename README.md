@@ -1,5 +1,4 @@
 # chestUI-with-custombuttons
-チェストにボタンを表示するアドオン。これを使えばインベントリ整理アドオンとかでアイテム追加したりする必要がなくなる！！！つまりJavaのMODみたいにUIで完結する！！！おおおこれがQOL上昇ということなのか！！！[激アツ](https://hinative.com/questions/24480913)！！！！<br/>
 Add custom buttons to chestUI<br/>
 This works Minecraft Bedrock Edition<br/>
 Show the form when a chest named "dCB" is opened
